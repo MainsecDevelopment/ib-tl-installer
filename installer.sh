@@ -1,4 +1,5 @@
 apt-get update
+cd
 mdkir ivan-biagi
 cd ivan-biagi
 git clone https://github.com/h0nus/RogueSploit.git
